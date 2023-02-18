@@ -1,5 +1,7 @@
 # Aseprite Linux Compiler/Installer
 
+- Always make sure a script is safe before running it. Double check the script to see that it won't goof anything up on your system. I take no responsibility if this does something undesirable for you.
+
 ### A shell script that will go fetch the source for compiling aseprite and compile it locally.
 
 - before running this make sure that you have the required [build dependencies](https://github.com/aseprite/aseprite/blob/main/INSTALL.md)
